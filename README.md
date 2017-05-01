@@ -20,6 +20,8 @@
 
 除此之外你还得会一点C++,如果习惯使用stl,那么可以关注[这个项目](https://github.com/maniacbug/StandardCplusplus)
 
+本文使用的是arduino uno r3,ide是用的是1.8.2版本,编译平台是win10 x64
+
 ## 代码风格
 
 arduino的代码看着比较像c++代码,但有几点有显著的特点
