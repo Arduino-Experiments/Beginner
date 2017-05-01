@@ -1,6 +1,8 @@
-# Arduino Experiments
+# 初尝Arduino
 
 本项目为用arduino做的实验记录,这东西真好玩!意大利人干的好!
+
+本项目是最基本的i/o控制部分的实验,主要就是通过操作小灯,或者电脑端的串口控制台来了解一些基本的i/o操作.
 
 ## 环境搭建
 
@@ -8,8 +10,7 @@
 
 1. 一块arduino uno
 2. 一块面包板
-3. 一些传感器,开关等作为输入
-4. 一些led小灯,电机,小屏幕等作为输出
+3. 一些led小灯等作为输出
 
 软件:
 
@@ -17,7 +18,7 @@
 2. 一个arduino的IDE(windows下不要装应用商店的哪个版本,那个版本无法上传)
 3. 如果更有追求些,还需要一个画电路图的软件,身为一个pythoner,我用的[SchemDraw](https://cdelker.bitbucket.io/SchemDraw/SchemDraw.html)
 
-除此之外你还得会一点C++
+除此之外你还得会一点C++,如果习惯使用stl,那么可以关注[这个项目](https://github.com/maniacbug/StandardCplusplus)
 
 ## 代码风格
 
